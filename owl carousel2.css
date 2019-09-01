@@ -1,0 +1,14 @@
+.dimension {
+    width: 50px;
+    height: 50px;
+}
+
+.test li.active img {
+    width: 100px;
+    height: 100px;
+}
+
+.font {
+    font-size: 50px;
+    color: black;
+}
